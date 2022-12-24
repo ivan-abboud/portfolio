@@ -2055,7 +2055,7 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #01bbd9;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2077,7 +2077,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #02c9e7;
 		}
 
 		input[type="button"].alt,
@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/bg2.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
