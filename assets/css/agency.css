@@ -740,12 +740,15 @@ ul.social-buttons li a {
   transition: all 0.3s;
   color: white;
   border-radius: 100%;
-  outline: none;
-  background-color: #212529;
+  
+  border: 2px solid #fed136;
+  background-color: #212121;
+  
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+  color: #212121;
 }
 
 
