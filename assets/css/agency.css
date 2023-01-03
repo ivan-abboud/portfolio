@@ -92,15 +92,15 @@ u {
 
 .btn-primary {
   background-color: transparent;
-  border-color: #69b3a2;
-  color: #69b3a2;
+  border-color: #fed136;
+  color: #fed136;
   border-width: medium;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #69b3a2 !important;
-  border-color: #69b3a2 !important;
-  color: white;
+  background-color: #fed136 !important;
+  border-color: #fed136 !important;
+  color: #212121;
 }
 
 .btn-primary:active, .btn-primary:focus {
