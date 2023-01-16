@@ -2,4 +2,4 @@
 my portfolio
 
 
-https://ivan-abboud.github.io/ivan.the.scientist/
+https://ivan-abboud.github.io/portfolio/
